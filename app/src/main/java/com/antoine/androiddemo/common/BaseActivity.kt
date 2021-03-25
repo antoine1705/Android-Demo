@@ -1,0 +1,6 @@
+package com.antoine.androiddemo.common
+
+import androidx.appcompat.app.AppCompatActivity
+
+abstract class BaseActivity : AppCompatActivity() {
+}
